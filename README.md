@@ -1,5 +1,5 @@
 - Hey there! I’m Priyanshu 
-- Junior undergraduate | IIT Delhi 
+- Senior undergraduate | IIT Delhi 
 - I’m currently learning Machine learning and data science
 
 
